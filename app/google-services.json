@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790697361927",
+    "project_id": "opium-d0f8a",
+    "storage_bucket": "opium-d0f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790697361927:android:39db0793c248154694e0a2",
+        "android_client_info": {
+          "package_name": "com.example.opium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARAy6i8WHBfy4PWo02saWn2Cl5VojLkEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
